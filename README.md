@@ -26,11 +26,11 @@ https://giturl.clmgo.me/
 [适合国内/海外访问]
 https://glocdn.okclm.tech/
 
-其他相关
-TG频道 https://t.me/msclminfo
-
 海外官网地址
 [已被墙仅适合海外/使用节点访问]
 https://m.clmvip.com/
 
 https://b.clmvip.com/
+
+其他相关
+TG频道 https://t.me/msclminfo
