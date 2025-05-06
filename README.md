@@ -20,7 +20,11 @@ https://www.imclm.com/
 
 最新国内加速地址
 [适合国内,如无法访问请多次刷新或等待更新] 
-更新时间:2024/05/01
+更新时间:2024/05/07
+
+https://gitpagedl.clmdl.tech/
+
+https://gitpagejs.clmjs.me/
 
 https://gitpage.wyclm.tech/
 
